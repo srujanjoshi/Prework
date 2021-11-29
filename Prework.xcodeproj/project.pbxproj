@@ -36,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1E44B76A2754584200ECA506 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		1EDF736E2753068D006075D5 /* Prework.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Prework.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1EDF73712753068D006075D5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1EDF73732753068D006075D5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -79,6 +80,7 @@
 		1EDF73652753068D006075D5 = {
 			isa = PBXGroup;
 			children = (
+				1E44B76A2754584200ECA506 /* README.md */,
 				1EDF73702753068D006075D5 /* Prework */,
 				1EDF73872753068D006075D5 /* PreworkTests */,
 				1EDF73912753068D006075D5 /* PreworkUITests */,
